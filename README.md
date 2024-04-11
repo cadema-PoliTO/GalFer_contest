@@ -8,4 +8,4 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 - <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/rules.pdf" target="_blank">Rules
 - <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/dataset.pdf" target="_blank">Dataset
 
-theme: jekyll-theme-minimal
+- Ciao

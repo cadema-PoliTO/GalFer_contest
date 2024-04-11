@@ -1,6 +1,5 @@
 # GalFer_contest
 
-- [Motivation]()
 - [Contest](https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/contest.pdf)
 - [Organization](https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/organization.pdf)
 - [Rules](https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/rules.pdf)

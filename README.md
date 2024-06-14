@@ -1,4 +1,4 @@
-# Galileo Ferraris' Contest
+# Galileo Ferraris Contest
 
 Comparing data-driven methodologies for the  multi-physics simulation of traction electrical machines
 

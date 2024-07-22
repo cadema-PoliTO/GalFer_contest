@@ -10,4 +10,4 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 
 Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/GalFer_Comic.pdf" target="_blank">Galileo Ferraris
 
-**The databases and rules for taking part in the Contest will be published during the 26TH International Conference on Electrical Machines ICEM 2024, September 1-4, 2024, and then linked to this page**
+**The databases and rules for taking part in the Contest will be published during the 26TH International Conference on Electrical Machines ICEM 2024, September 1-4, 2024, and then linked to this page.**

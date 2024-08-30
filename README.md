@@ -10,4 +10,45 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 
 Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/GalFer_Comic.pdf" target="_blank">Galileo Ferraris
 
-**The databases and rules for taking part in the Contest will be published during the 26TH International Conference on Electrical Machines ICEM 2024, September 1-4, 2024, and then linked to this page.**
+# Operative Rules for GalFer's Contest
+
+## Structure of the Contest
+
+The contest aims to compare the accuracy and efficiency of data-driven procedures when applied to a dataset regarding electric motors for traction. The Contest has the following rules.
+
+### What contest will provide
+
+1. datasets on electrical machines will be made available on the **GitHub** website **only to the research teams that will join the Contest**;  
+2. datasets are *open* according to Apache License 2.0;  
+3. details about the technical contest (kind of motor, target performance, design variable space, etc.) are provided in the slides available on this GitHub website;  
+4. two complete *training* datasets, produced according to the workflow described in <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/02_contest.pdf" target="_blank">Contest</a> and referring to two kinds of motor, will be shared using **.csv** files containing, in each row, the variables defining motor configuration and motor performance. The number of configurations in each public dataset will be  **4096**; the third dataset, referring to a *hidden* motor, will be provided in a limited size of **256** configurations;
+
+### What research groups will provide
+
+1. research groups that intend to join the Contest will send a *letter of intent* (template and deadline provided in the following);  
+2. research groups will provide procedures either in **Matlab** or in **Python** source code and a document, in the form of slides, explaining their procedures;  
+3. research groups taking part in the Contest will have to *train* their procedures on the two public datasets and *test* them on the third dataset;
+4. organizers will re-run the procedures to assess results and computational effort for the training and evaluation phase;  
+5. the focus of the Contest will be on the *multi-criteria* evaluation capabilities of the data-driven procedures, thus the target of the procedures will be the evaluation of the *Pareto Front* in the performance space;  
+6. the quality of the results will be judged on the third dataset referring to the *hidden* motor. The *reference Pareto Front (rPF)* will be created by Contest organizers by running a dataset with a large number of configurations;  
+7. Results will be evaluated on the basis of the following parameters:  
+   1. *accuracy*: distance from the rPF, Generational Distance (GD), Reverse generational distance (RGD), Spacing (S), and Error ratio (ER);  
+   2. *efficiency:* number of tunable parameters of the model, computational effort of the training process, and computational effort for the evaluation of Pareto Front.
+8. unless previously defined with Contest organizers, the data and procedures provided by participants will be considered as a *public disclosure*.
+
+### Awards
+
+The number of awards and their economic content will be defined as soon as the sponsorship collection is completed.
+
+Any research group can attend the Contest, submit their results, and have them ranked according to the previously defined criteria. However, *awards* with economic rewards will be reserved for *academic teams* formed as defined in the following.
+
+### Timeline
+
+1. the datasets will be available in **September 2024**;  
+2. research groups planning to take part in the Contest are invited to submit their intention to join the Contest using the <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/GalFer_letter_of%20_intent.docx">letter of intent</a> following the template provided by mailing it to the address [**galfercontest@gmail.com**](mailto:galfercontest@gmail.com), at last by **November 1st, 2024**;  
+3. sharing of the preliminary results from the research teams and first informal evaluation, by **January 15th, 2025**;
+4. publication of the *partial* dataset on the third machine by **January 31st, 2025;**  
+5. final results and procedures must be submitted by the research teams by **April 15th, 2025**;  
+6. award ceremony will be held in a dedicated *free* workshop during the COMPUMAG 2025 Conference in Naples, **June 22-26, 2025**.
+
+

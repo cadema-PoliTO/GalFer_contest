@@ -10,6 +10,32 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 
 Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/GalFer_Comic.pdf" target="_blank">Galileo Ferraris
 
+### 2024/10/17 - First release of the dataset for Motor "A"
+
+- the dataset containing input and output data on Motor "A" configuration (details in file "04_Rules.pdf" on main page) has been made available to the teams enrolled in the contest;
+
+- the dataset contains 4096 records obtained sampling an 8-dimensional space of degrees of freedom (input) and computing 7 objectives (output);
+
+<div align="center">
+	<img width = "50%" src="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Images/tab_input.png">
+</div>
+
+- the design objectives are: torque $$(T)$$, torque ripple $$(TR)$$, copper mass $$(M_\mathrm{Cu})$$, magnet mass $$(M_\mathrm{mag})$$, power factor $$(cos(\varphi))$$, Von Mises equivalent stress $$(VM)$$, and maximum temperature on the winding $$(Temp)$$
+
+- results are computed applying the workflow described in file "02_contest.pdf";
+
+- sampling is performed using a Sobol procedure covering the whole hypercube of inputs;
+
+- all 4096 results are reported in datasets, even if some of them should be ruled out due to "unphysical" motor conditions. Advised filtering values are $$VM\leq455 \mathrm{MPa}$$ , $$Temp\leq180 \mathrm{C}$$. If these values are used, a number of 2965 feasible configurations should be obtained;
+
+- in order to produce graphs with a similar setup, it is advised that all the objectives have to be minimised. As maximum torque and power factor are requested, this implies that the minimum of -Torque and $$-(cos(\varphi))$$ are sought;
+
+- four different Pareto optimal subproblems are defined:
+    - $$2D_1 \rightarrow$$ $$O_1=-T$$, $$O_2=TR$$
+    - $$2D_2 \rightarrow$$ $$O_1=-T$$, $$O_2=VM$$
+    - $$2D_3 \rightarrow$$ $$O_1=-T$$, $$O_2=Temp$$
+    - $$3D_1 \rightarrow$$ $$O_1=-T$$, $$O_2=VM$$, $$O_3=Temp$$
+
 # Operative Rules for GalFer's Contest
 
 ## Structure of the Contest

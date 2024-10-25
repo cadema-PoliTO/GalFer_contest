@@ -11,6 +11,24 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 
 Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/GalFer_Comic.pdf" target="_blank">Galileo Ferraris
 
+## List of participants (updated 2024/10/25)
+
+- Altair E-Motor Team, Altair Engineering France, Grenoble, France
+- Brainwave Bulided, Shenzhen MSU-BIT University, Shenzhen, China
+- CAD Lab Team, University of Pavia, Pavia, Italy
+- CREATORs, TU Darmstad - TU Graz - Siemens AG, Darmstad, Germany
+- DK-TIC, DAIKIN Industry, Osaka, Japan
+- EATUB, TU Berlin, Berlin, Germany
+- ELECTA, KU Leuven/Energyville, Leuven, Belgium
+- IEML, Amirkabir University of Technology, Tehran, Iran
+- LASEteam, The University of British Columbia, Vancouver, Canada
+- ManTriS, Politecnico di Torino, Torino, Italy
+- MLotors, Indian Institute of Technology Bhubaneswar, Jatni, India
+- MotorAI, Ritsumeikan University, Shiga, Japan
+- Motorplus, Motorplus, Teheran, Iran
+- The overfitters, Virtual Vehicle Research GmbH, Graz, Austria
+- Torque Titans, CG Power and Industrial Solutions Limited, Bhopal, India
+
 ### 2024/10/17 - First release of the dataset for Motor "A"
 
 - the dataset containing input and output data on Motor "A" configuration (details in file "04_Rules.pdf" on main page) has been made available to the teams enrolled in the contest;

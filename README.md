@@ -11,6 +11,8 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 
 Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/GalFer_Comic.pdf" target="_blank">Galileo Ferraris
 
+## 2024/10/30 - Deadline for GalFer contest enrolment postponed to 2024/11/15
+
 ## List of participants (updated 2024/10/25)
 
 - Altair E-Motor Team, Altair Engineering France, Grenoble, France
@@ -90,7 +92,7 @@ Any research group can attend the Contest, submit their results, and have them r
 ### Timeline
 
 1. the datasets will be available in **September 2024**;  
-2. research groups planning to take part in the Contest are invited to submit their intention to join the Contest using the <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/GalFer_letter_of%20_intent.docx">letter of intent</a> following the template provided by mailing it to the address [**galfercontest@gmail.com**](mailto:galfercontest@gmail.com), at last by **November 1st, 2024**;  
+2. research groups planning to take part in the Contest are invited to submit their intention to join the Contest using the <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/GalFer_letter_of%20_intent.docx">letter of intent</a> following the template provided by mailing it to the address [**galfercontest@gmail.com**](mailto:galfercontest@gmail.com), at last by **November 15th, 2024**;  
 3. sharing of the preliminary results from the research teams and first informal evaluation, by **January 15th, 2025**;
 4. publication of the *partial* dataset on the third machine by **January 31st, 2025;**  
 5. final results and procedures must be submitted by the research teams by **April 15th, 2025**;  

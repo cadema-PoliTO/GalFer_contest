@@ -13,7 +13,7 @@ Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Prese
 
 ## 2024/10/30 - Deadline for GalFer contest enrolment postponed to 2024/11/15
 
-## List of participants (updated 2024/10/25)
+## List of participants (updated 2024/11/04)
 
 - Altair E-Motor Team, Altair Engineering France, Grenoble, France
 - Brainwave Bulided, Shenzhen MSU-BIT University, Shenzhen, China
@@ -22,12 +22,19 @@ Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Prese
 - DK-TIC, DAIKIN Industry, Osaka, Japan
 - EATUB, TU Berlin, Berlin, Germany
 - ELECTA, KU Leuven/Energyville, Leuven, Belgium
+- GTR, University of Lille, Lille, France
+- GTB-ULille, University of Lille, Lille, France
+- i3@EPFL, Sonceboz SA, Lausanne, Switzerland
 - IEML, Amirkabir University of Technology, Tehran, Iran
+- Kangaroos, University of Technology Sydney, Sydney, Australia
 - LASEteam, The University of British Columbia, Vancouver, Canada
 - ManTriS, Politecnico di Torino, Torino, Italy
+- McGill MagNets, McGill University, Montreal, Canada
 - MLotors, Indian Institute of Technology Bhubaneswar, Jatni, India
 - MotorAI, Ritsumeikan University, Shiga, Japan
 - Motorplus, Motorplus, Teheran, Iran
+- Nature-Inspired Computational Intelligence Lab, Brock University, St Catharines, Canada 
+- SHIME-PARFAIT, Aoyama Gakuin University, Kyoto, Japan
 - The overfitters, Virtual Vehicle Research GmbH, Graz, Austria
 - Torque Titans, CG Power and Industrial Solutions Limited, Bhopal, India
 

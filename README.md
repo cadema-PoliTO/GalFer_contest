@@ -21,7 +21,9 @@ Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Prese
 - CREATORs, TU Darmstad - TU Graz - Siemens AG, Darmstad, Germany
 - DK-TIC, DAIKIN Industry, Osaka, Japan
 - EATUB, TU Berlin, Berlin, Germany
+- ECAD, Dongguk University, Soonchunhyuang University and Hanyang University, Seoul, Republic of Korea
 - ELECTA, KU Leuven/Energyville, Leuven, Belgium
+- e-Machine Learners, University of Wisconsin-Madison, Madison, United States of America
 - GTR, University of Lille, Lille, France
 - GTB-ULille, University of Lille, Lille, France
 - i3@EPFL, Sonceboz SA, Lausanne, Switzerland

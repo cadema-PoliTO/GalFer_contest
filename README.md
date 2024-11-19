@@ -11,9 +11,20 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 
 Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/GalFer_Comic.pdf" target="_blank">Galileo Ferraris
 
-## 2024/10/30 - Deadline for GalFer contest enrolment postponed to 2024/11/15
+## 2024/11/19 - Save the date!!! 2024/12/11, 13:00 CET, GalFer Contest first webinar
+Tentative agenda of the webinar:
+1. GalFer Contest introduction: operative details and focus on the contest rules
+2. Workflow process creating the datasets
+	- Dr. S. Ferrari: magnetic
+	- Dr. C. Anerdi: elastostatic
+	- Dr. R. Torchio: thermal 
+3. Multicriteria evaluation of electric motors
+	- Dr. L. Solimene
+4. Ranking procedure and Awards
+	- Prof. M. Repetto
+5. Focus on preliminary teams' work and possible problems emerging in dataset handling: free discussion
 
-## List of participants (updated 2024/11/19)
+## List of participants (final)
 
 - Altair E-Motor Team, Altair Engineering France, Grenoble, France
 - Brainwave Bulided, Shenzhen MSU-BIT University, Shenzhen, China

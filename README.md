@@ -24,6 +24,8 @@ Agenda of the webinar:
 	- Prof. M. Repetto
 5. Focus on preliminary teams' work and possible problems emerging in dataset handling: free discussion
 
+## For information on contest rules and awards, please refer to this <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Ranking_rules/Ranking%26Awards.pdf" target="_blank">link.  
+
 ## List of participants (final)
 
 - Altair E-Motor Team, Altair Engineering France, Grenoble, France
@@ -79,38 +81,6 @@ Agenda of the webinar:
     - $$2D_2 \rightarrow$$ $$O_1=-T$$, $$O_2=VM$$
     - $$2D_3 \rightarrow$$ $$O_1=-T$$, $$O_2=Temp$$
     - $$3D_1 \rightarrow$$ $$O_1=-T$$, $$O_2=VM$$, $$O_3=Temp$$
-
-# Operative Rules for GalFer's Contest
-
-## Structure of the Contest
-
-The contest aims to compare the accuracy and efficiency of data-driven procedures when applied to a dataset regarding electric motors for traction. The Contest has the following rules.
-
-### What contest will provide
-
-1. datasets on electrical machines will be made available on the **GitHub** website **only to the research teams that will join the Contest**;  
-2. datasets are *open* according to Apache License 2.0;  
-3. details about the technical contest (kind of motor, target performance, design variable space, etc.) are provided in the slides available on this GitHub website;  
-4. two complete *training* datasets, produced according to the workflow described in <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/02_contest.pdf" target="_blank">Contest</a> and referring to two kinds of motor, will be shared using **.csv** files containing, in each row, the variables defining motor configuration and motor performance. The number of configurations in each public dataset will be  **4096**; the third dataset, referring to a *hidden* motor, will be provided in a limited size of **256** configurations;
-
-### What research groups will provide
-
-1. research groups that intend to join the Contest will send a *letter of intent* (template and deadline provided in the following);  
-2. research groups will provide procedures either in **Matlab** or in **Python** source code and a document, in the form of slides, explaining their procedures;  
-3. research groups taking part in the Contest will have to *train* their procedures on the two public datasets and *test* them on the third dataset;
-4. organizers will re-run the procedures to assess results and computational effort for the training and evaluation phase;  
-5. the focus of the Contest will be on the *multi-criteria* evaluation capabilities of the data-driven procedures, thus the target of the procedures will be the evaluation of the *Pareto Front* in the performance space;  
-6. the quality of the results will be judged on the third dataset referring to the *hidden* motor. The *reference Pareto Front (rPF)* will be created by Contest organizers by running a dataset with a large number of configurations;  
-7. Results will be evaluated on the basis of the following parameters:  
-   1. *accuracy*: distance from the rPF, Generational Distance (GD), Reverse generational distance (RGD), Spacing (S), and Error ratio (ER);  
-   2. *efficiency:* number of tunable parameters of the model, computational effort of the training process, and computational effort for the evaluation of Pareto Front.
-8. unless previously defined with Contest organizers, the data and procedures provided by participants will be considered as a *public disclosure*.
-
-### Awards
-
-The number of awards and their economic content will be defined as soon as the sponsorship collection is completed.
-
-Any research group can attend the Contest, submit their results, and have them ranked according to the previously defined criteria. However, *awards* with economic rewards will be reserved for *academic teams* formed as defined in the following.
 
 ### Timeline
 

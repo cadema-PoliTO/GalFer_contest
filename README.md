@@ -11,6 +11,36 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 
 Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/GalFer_Comic.pdf" target="_blank">Galileo Ferraris
 
+# 2025/01/02 - Interim evaluation assessment
+
+Dear Teams,
+
+We are looking forward to our next steps in the GalFer Contest!
+
+To smooth out possible problems in communication and evaluation, we would like to make an intermediate step comparing and assessing your preliminary results.
+
+Providing the material described below is **not mandatory**, but it can help to check your advancements.
+
+We propose this detailed timeline:
+
+## By January 15th, 2025 
+
+Each team will provide:
+*   a short document (maximum two pages IEEE format) where the preliminary results obtained in the "Interpolation" problem (Motor A) on the 3D_1 problem (Torque, Von Mises, Temperature, described in the *Ranking* document) are shortly presented and described.
+*   a file, in csv format, containing a set of inputs and the corresponding outputs computed by the surrogate model. The set of points can be either:
+    1. an approximation of the Pareto Front obtained by the Team running its own multi-objective optimization procedure;
+    2. a set of points (maximum 100) generated in the Motor A feasibility range.
+
+In case of point i. the "official" Contest ranking procedure will be used. In case of point ii. a feedback on the average error on the "true" values evaluated by FEM procedure will be given.
+
+This material will be **"strictly confidential"** and will be used by the Organizing Committee only to assess the status of the Contest Teams.
+
+## By the end of January 2025
+The second Contest workshop will be organized and results in an **"anonymous"** form will be presented. In the workshop, possible problems and questions will be discussed.
+Each Team will anyway receive a feedback on its results in a **"private"** mail.
+
+The exact date of the workshop will be announced in a few days.
+
 ## 2024/11/19 - Save the date!!! 2024/12/11, 13:00 CET, GalFer Contest first webinar <a href="https://polito-it.zoom.us/rec/share/jl5_9bvTBTOyD-7xLD5OduNucjCaGmWuh1xuahruI2dmrGSQ10Bw0DJUWyLTvpYV.Y6oLFlLEGtoLgNoC?startTime=1733918770000">(Link to recording <a href="https://github.com/cadema-PoliTO/GalFer_contest/tree/main/2024_12_11_webinar_presentations">- Link to presentations)
 Agenda of the webinar:
 1. GalFer Contest introduction: operative details and focus on the contest rules

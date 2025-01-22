@@ -11,6 +11,11 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 
 Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/GalFer_Comic.pdf" target="_blank">Galileo Ferraris
 
+## 2025/01/22 - Save the date!!! 2025/02/05, 13:00 CET, GalFer Contest second webinar - <a href="https://polito-it.zoom.us/j/89722170077?pwd=8VXGau7r91mBu6HrkIFd9NJFcUbfqx.1"> Link to Zoom meeting 
+Agenda of the webinar:
+- Presentation of the interim evaluation results
+- Update on data format request
+- Discussion
 # 2025/01/02 - Interim evaluation assessment
 
 Dear Teams,

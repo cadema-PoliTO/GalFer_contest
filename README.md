@@ -11,6 +11,12 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 
 Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/GalFer_Comic.pdf" target="_blank">Galileo Ferraris
 
+## 2025/03/06 - Updates on GalFer Contest
+- The dataset of Motor C (256 configurations) has been sent to each team by email.
+- An updated version of the "Ranking&Awards" document has been uploaded. It contains the data on the fixed design variables of Motor C.
+- The deadline for the final submission has been fixed at **20/04/2024**.
+- The Contest's award ceremony is scheduled for the **23/06/2024**, during the Compumag conference.   
+
 ## 2025/01/22 - Save the date!!! 2025/02/05, 13:00 CET, GalFer Contest second webinar - <a href="https://polito-it.zoom.us/rec/share/J_Q5ne5dYahZrFta4aDXGK46ju3_rPBankI3mHdKPDTlpTkQaUSk5UJvEmFQU-yL.uYy59nMF2swTXqjw"> Link to recording 
 Agenda of the webinar:
 - Presentation of the interim evaluation results
@@ -122,8 +128,8 @@ Agenda of the webinar:
 1. the datasets will be available in **September 2024**;  
 2. research groups planning to take part in the Contest are invited to submit their intention to join the Contest using the <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/GalFer_letter_of%20_intent.docx">letter of intent</a> following the template provided by mailing it to the address [**galfercontest@gmail.com**](mailto:galfercontest@gmail.com), at last by **November 15th, 2024**;  
 3. sharing of the preliminary results from the research teams and first informal evaluation, by **January 15th, 2025**;
-4. publication of the *partial* dataset on the third machine by **January 31st, 2025;**  
-5. final results and procedures must be submitted by the research teams by **April 15th, 2025**;  
+4. publication of the *partial* dataset on the third machine by **March 1st, 2025;**  
+5. final results and procedures must be submitted by the research teams by **April 20th, 2025**;  
 6. award ceremony will be held in a dedicated *free* workshop during the COMPUMAG 2025 Conference in Naples, **June 22-26, 2025**.
 
 

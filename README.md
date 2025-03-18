@@ -11,6 +11,9 @@ Comparing data-driven methodologies for the  multi-physics simulation of tractio
 
 Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Presentations/GalFer_Comic.pdf" target="_blank">Galileo Ferraris
 
+## 2025/03/18 - GalFer Contest Office Hour - 2025/03/25, 13:00 CET, <a href="https://polito-it.zoom.us/j/86834816170?pwd=bFVbro6qnsv3MNj6aSwzI7pqSWch8i.1"> Link to Zoom meeting
+The organizers welcome any questions, doubts, or suggestions from the teams before the final submission of the results.
+
 ## 2025/03/06 - Updates on GalFer Contest
 - The dataset of Motor C (256 configurations) has been sent to each team by email.
 - An updated version of the "Ranking&Awards" document has been uploaded. It contains the data on the fixed design variables of Motor C.

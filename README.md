@@ -14,6 +14,31 @@ Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Prese
 ## GalFer Contest Reference Paper
 S. Ferrari et al., "A Multiphysics Dataset Generation Procedure for the Data-Driven Modeling of Traction Electric Motors," in IEEE Access, doi: 10.1109/ACCESS.2025.3554147. <a href="https://ieeexplore-ieee-org.ezproxy.biblio.polito.it/document/10937701" target="_blank">Paper
 
+## 2025/04/23 - Final Submissions received
+Thank you for your effort and commitment in taking part in the GalFer Contest. We are pleased to announce that by the deadline of April 20th, 2025, we received submissions from the following teams:
+
+- Altair E-Motor Team, Altair Engineering France, Grenoble, France
+- Brainwave Builder, Shenzhen MSU-BIT University, Shenzhen, China
+- CAD Lab Team, University of Pavia, Pavia, Italy
+- CREATORs, TU Darmstad - TU Graz - Siemens AG, Darmstad, Germany
+- ECAD, Dongguk University, Soonchunhyuang University and Hanyang University, Seoul, Republic of Korea
+- ELECTA, KU Leuven/Energyville, Leuven, Belgium
+- Electric System Design Lab, Hosei University, Tokyo, Japan
+- GTR, University of Lille, Lille, France
+- GTB-ULille, University of Lille, Lille, France
+- i3@EPFL, Sonceboz SA, Lausanne, Switzerland
+- IEML, Amirkabir University of Technology, Tehran, Iran
+- Kangaroos, University of Technology Sydney, Sydney, Australia
+- LASEteam, The University of British Columbia, Vancouver, Canada
+- ManTriS, Politecnico di Torino, Torino, Italy
+- McGill MagNets, McGill University, Montreal, Canada
+- MELSUR, Mitsubishi Electric Corporation, Hyogo, Japan
+- MLotors, Indian Institute of Technology Bhubaneswar, Jatni, India 
+- SHIME-PARFAIT, Aoyama Gakuin University, Kyoto, Japan
+- The overfitters, Virtual Vehicle Research GmbH, Graz, Austria
+
+We thank all teams for their valuable contributions. The organizing committee will be in touch during the evaluation process.
+
 ## 2025/03/18 - GalFer Contest Office Hour - 2025/03/25, 13:00 CET, <a href="https://polito-it.zoom.us/j/86834816170?pwd=bFVbro6qnsv3MNj6aSwzI7pqSWch8i.1"> Link to Zoom meeting
 The organizers welcome any questions, doubts, or suggestions from the teams before the final submission of the results.
 
@@ -76,7 +101,7 @@ Agenda of the webinar:
 ## List of participants (final)
 
 - Altair E-Motor Team, Altair Engineering France, Grenoble, France
-- Brainwave Bulided, Shenzhen MSU-BIT University, Shenzhen, China
+- Brainwave Builder, Shenzhen MSU-BIT University, Shenzhen, China
 - CAD Lab Team, University of Pavia, Pavia, Italy
 - CREATORs, TU Darmstad - TU Graz - Siemens AG, Darmstad, Germany
 - DK-TIC, DAIKIN Industry, Osaka, Japan

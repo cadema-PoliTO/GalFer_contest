@@ -15,7 +15,7 @@ Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Prese
 S. Ferrari et al., "A Multiphysics Dataset Generation Procedure for the Data-Driven Modeling of Traction Electric Motors," in IEEE Access, doi: 10.1109/ACCESS.2025.3554147. <a href="https://ieeexplore-ieee-org.ezproxy.biblio.polito.it/document/10937701" target="_blank">Paper
 
 ## 2025/04/29 - Webinar for academic team announcement
-Dear **Academic** Participants, a webinar to describe the procedure for the economic award payment, reserved for academic teams, will take place on May 7th, 2025, 12:00 CET, at the following <a href="https://polito-it.zoom.us/j/88082254227?pwd=d55odzRcozudZVlmoItvRb83DStidg.1" target="_blank">link.   
+Dear **Academic** Participants, a webinar to describe the procedure for the economic award payment, reserved for academic teams, will take place on May 7th, 2025, 12:00 CET. <a href="https://polito-it.zoom.us/rec/share/4aznX-KVVglH6AasQgJqisy8Ezno6Ia9_BMm3Q9VFuouq4sq__VBOl4IqjfJEnc.44CfgqySsJ8RBI0a?startTime=1746612285000" target="_blank">Link to the recording   
 
 ## 2025/04/23 - Final Submissions received
 Dear Participants, thank you for your effort and commitment in taking part in the GalFer Contest. We are pleased to announce that by the deadline of April 20th, 2025, we received submissions from the following teams:

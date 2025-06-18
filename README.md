@@ -14,7 +14,7 @@ Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Prese
 ## GalFer Contest Reference Paper
 S. Ferrari et al., "A Multiphysics Dataset Generation Procedure for the Data-Driven Modeling of Traction Electric Motors," in IEEE Access, doi: 10.1109/ACCESS.2025.3554147. <a href="https://ieeexplore-ieee-org.ezproxy.biblio.polito.it/document/10937701" target="_blank">Paper
 
-# 2025/06/18 - GalFer Awards Presentation
+## 2025/06/18 - GalFer Awards Presentation
 
 🗓 **Date:** Monday, June 23rd, 2025  
 🕐 **Time:** 13:00–14:00 CET  

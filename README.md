@@ -18,7 +18,7 @@ S. Ferrari et al., "A Multiphysics Dataset Generation Procedure for the Data-Dri
 
 🗓 **Date:** Monday, June 23rd, 2025  
 🕐 **Time:** 13:00–14:00 CET  
-📍 **Location:** In presence and remote  
+📍 **Location:** In presence [(COMPUMAG 25, Naples)](https://www.compumag2025.com/cm/?who=home) and remote  
 🔗 **Zoom Link:** [Join here](https://polito-it.zoom.us/j/84208607188?pwd=ZTdajisDtHLmxMCkQQI4KoPL5BH24p.1)
 
 ---

@@ -130,35 +130,35 @@ Agenda of the webinar:
 
 ## For information on contest rules and awards, please refer to this <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Ranking_rules/Ranking%26Awards.pdf" target="_blank">link.  
 
-## List of participants (final)
+## List of participants and Team ID number (final)
 
-- Altair E-Motor Team, Altair Engineering France, Grenoble, France
-- Brainwave Builder, Shenzhen MSU-BIT University, Shenzhen, China
-- CAD Lab Team, University of Pavia, Pavia, Italy
-- CREATORs, TU Darmstad - TU Graz - Siemens AG, Darmstad, Germany
-- DK-TIC, DAIKIN Industry, Osaka, Japan
-- EATUB, TU Berlin, Berlin, Germany
-- ECAD, Dongguk University, Soonchunhyuang University and Hanyang University, Seoul, Republic of Korea
-- ELECTA, KU Leuven/Energyville, Leuven, Belgium
-- Electric System Design Lab, Hosei University, Tokyo, Japan
-- e-Machine Learners, University of Wisconsin-Madison, Madison, United States of America
-- GTR, University of Lille, Lille, France
-- GTB-ULille, University of Lille, Lille, France
-- i3@EPFL, Sonceboz SA, Lausanne, Switzerland
-- IEML, Amirkabir University of Technology, Tehran, Iran
-- Kangaroos, University of Technology Sydney, Sydney, Australia
-- LASEteam, The University of British Columbia, Vancouver, Canada
-- Machinery warriors, Rajiv Gandhi University of Knowledge Technology, Nuzvid, India
-- ManTriS, Politecnico di Torino, Torino, Italy
-- McGill MagNets, McGill University, Montreal, Canada
-- MELSUR, Mitsubishi Electric Corporation, Hyogo, Japan
-- MLotors, Indian Institute of Technology Bhubaneswar, Jatni, India
-- MotorAI, Ritsumeikan University, Shiga, Japan
-- Motorplus, Motorplus, Teheran, Iran
-- Nature-Inspired Computational Intelligence Lab, Brock University, St Catharines, Canada 
-- SHIME-PARFAIT, Aoyama Gakuin University, Kyoto, Japan
-- The overfitters, Virtual Vehicle Research GmbH, Graz, Austria
-- Torque Titans, CG Power and Industrial Solutions Limited, Bhopal, India
+1. Altair E-Motor Team, Altair Engineering France, Grenoble, France
+2. Brainwave Builder, Shenzhen MSU-BIT University, Shenzhen, China
+3. CAD Lab Team, University of Pavia, Pavia, Italy
+4. CREATORs, TU Darmstad - TU Graz - Siemens AG, Darmstad, Germany
+5. DK-TIC, DAIKIN Industry, Osaka, Japan
+6. EATUB, TU Berlin, Berlin, Germany
+7. ECAD, Dongguk University, Soonchunhyuang University and Hanyang University, Seoul, Republic of Korea
+8. ELECTA, KU Leuven/Energyville, Leuven, Belgium
+9. Electric System Design Lab, Hosei University, Tokyo, Japan
+10. e-Machine Learners, University of Wisconsin-Madison, Madison, United States of America
+11. GTR, University of Lille, Lille, France
+12. GTB-ULille, University of Lille, Lille, France
+13. i3@EPFL, Sonceboz SA, Lausanne, Switzerland
+14. IEML, Amirkabir University of Technology, Tehran, Iran
+15. Kangaroos, University of Technology Sydney, Sydney, Australia
+16. LASEteam, The University of British Columbia, Vancouver, Canada
+17. Machinery warriors, Rajiv Gandhi University of Knowledge Technology, Nuzvid, India
+18. ManTriS, Politecnico di Torino, Torino, Italy
+19. McGill MagNets, McGill University, Montreal, Canada
+20. MELSUR, Mitsubishi Electric Corporation, Hyogo, Japan
+21. MLotors, Indian Institute of Technology Bhubaneswar, Jatni, India
+22. MotorAI, Ritsumeikan University, Shiga, Japan
+23. Motorplus, Motorplus, Teheran, Iran
+24. Nature-Inspired Computational Intelligence Lab, Brock University, St Catharines, Canada 
+25. SHIME-PARFAIT, Aoyama Gakuin University, Kyoto, Japan
+26. The overfitters, Virtual Vehicle Research GmbH, Graz, Austria
+27. Torque Titans, CG Power and Industrial Solutions Limited, Bhopal, India
 
 ### 2024/10/17 - First release of the dataset for Motor "A"
 

@@ -15,7 +15,7 @@ Who was <a href="https://github.com/cadema-PoliTO/GalFer_contest/blob/main/Prese
 S. Ferrari et al., "A Multiphysics Dataset Generation Procedure for the Data-Driven Modeling of Traction Electric Motors," in IEEE Access, doi: 10.1109/ACCESS.2025.3554147. <a href="https://ieeexplore-ieee-org.ezproxy.biblio.polito.it/document/10937701" target="_blank">Paper
 
 ## 2025/06/24 - GalFer Contest Final Event
-Dear Participants, first of all, thank you for joining the Contest! You can find the [recording](https://polito-it.zoom.us/rec/share/zcR-jMmV__ZliGzqVfeBmo9PepVVtH8blvlW3YJhzP1KYCX13ra1wYs6Fkd2k-1y.N1IcWNUmubQcyFrX?startTime=1750676949000) of the final event and some pictures of the ceremony. The slides of the award presentation are available in the [Award Ceremony](https://github.com/cadema-PoliTO/GalFer_contest/tree/main/Award%20Ceremony) directory.    
+Dear Participants, first of all, thank you for joining the Contest! You can find the [recording](https://polito-it.zoom.us/rec/share/zcR-jMmV__ZliGzqVfeBmo9PepVVtH8blvlW3YJhzP1KYCX13ra1wYs6Fkd2k-1y.N1IcWNUmubQcyFrX?startTime=1750676949000) of the final event and some [pictures](https://github.com/cadema-PoliTO/GalFer_contest/tree/main/Award%20Ceremony/Photos) of the ceremony. The slides of the award presentation are available in the [Award Ceremony](https://github.com/cadema-PoliTO/GalFer_contest/tree/main/Award%20Ceremony) directory.    
 ## 2025/06/18 - GalFer Awards Presentation
 
 🗓 **Date:** Monday, June 23rd, 2025  
